@@ -1,0 +1,19 @@
+Vector databases with OpenAI
+
+https://www.google.com/search?q=how+to+generate+embeddings+with+gpt4&oq=how+to+generate+embeddings+with+gpt4&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgoIAhAhGBYYHRgeMgoIAxAhGBYYHRgeMgoIBBAhGBYYHRgeMgoIBRAhGBYYHRgeMgoIBhAhGBYYHRgeMgoIBxAhGBYYHRgeMgoICBAhGBYYHRgeMgoICRAhGBYYHRge0gEIOTQ3OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:52f98b48,vid:jRnUPUTkZmU,st:0
+
+Vector Similarity Search in MongoDB
+
+https://www.google.com/search?q=vector+similarity+search+database+tutorial&sca_esv=582945116&sxsrf=AM9HkKl6WFRxRIfvJCHSAsaV1pZ-44y8mw%3A1700147215921&ei=DzBWZbfvN_ix5OUPmNqp8AI&ved=0ahUKEwj3svv25ciCAxX4GLkGHRhtCi4Q4dUDCBA&uact=5&oq=vector+similarity+search+database+tutorial&gs_lp=Egxnd3Mtd2l6LXNlcnAiKnZlY3RvciBzaW1pbGFyaXR5IHNlYXJjaCBkYXRhYmFzZSB0dXRvcmlhbDIFECEYoAEyBRAhGKABSNoLUFZYpQhwAXgBkAEAmAHXAaABxQqqAQUwLjguMbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgYQABgWGB7CAggQIRgWGB4YHeIDBBgAIEGIBgGQBgg&sclient=gws-wiz-serp#fpstate=ive&vld=cid:e8e29016,vid:dmprgum9Xu8,st:0
+
+Retrieval-Augmented Generation (RAG):
+
+a. https://research.ibm.com/blog/retrieval-augmented-generation-RAG
+
+b. https://python.langchain.com/docs/use_cases/question_answering/
+
+Milvus Documentation
+https://milvus.io/docs/install_standalone-docker.md
+
+HNSWLib
+https://github.com/nmslib/hnswlib
